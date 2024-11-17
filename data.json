@@ -1,0 +1,67 @@
+[
+	{
+		"url_regex": "https%3A%2F%2F.*.pornhub.org%2Fview_video..*%3Fviewkey%3D.*",
+		"video_xpath": "//div[contains(@class,'_videoWrapper')]/video"
+	},
+	{
+		"url_regex": "https%3A%2F%2F.*spankbang.com%2F.*%2Fvideo%2F.*",
+		"video_xpath": "//video[@id='main_video_player_html5_api']"
+	},
+	{
+		"url_regex": "https%3A%2F%2Frule34video.com%2Fvideos%2F.*%2F.*",
+		"video_xpath": "//div[@id='kt_player']/div[@class='fp-player']/video"
+	},
+	{
+		"url_regex": "https%3A%2F%2Fecchi.iwara.tv%2Fvideos%2F.*",
+		"video_xpath": "//video[@id='video-player_html5_api']"
+	},
+	{
+		"url_regex": "https%3A%2F%2Fpixeldrain.com%2Fu%2F.*",
+		"video_xpath": "//div[@class='image-container']/video"
+	},
+	{
+		"url_regex": "https%3A%2F%2Frule34.xxx%2Findex.php.*page%3Dpost.*",
+		"video_xpath": "//video[@id='gelcomVideoPlayer']"
+	},
+	{
+		"url_regex": "https%3A%2F%2Fwww.porntrex.com%2Fvideo%2F.*%2F.*",
+		"video_xpath": "//div[@id='kt_player']/div[contains(@class, 'player')]/video"
+	},
+	{
+		"url_regex": "https%3A%2F%2Fwww.povaddict.com%2F.*",
+		"video_xpath": "//video[@id='video-player_html5_api']"
+	},
+	{
+		"url_regex": "https%3A%2F%2Fhanime.tv%2Fvideos%2Fhentai%2F.*",
+		"video_xpath": "//video[@id='video-player_html5_api']"
+	},
+	{
+		"url_regex": "https%3A%2F%2Fwww.manyvids.com%2FVideo%2F.*",
+		"video_xpath": "//video[@class='rmp-object-fit-contain rmp-video']"
+	},
+	{
+		"url_regex": "https%3A%2F%2Fwww.mega.nz%2F.*",
+		"video_xpath": "//video[@id='video']"
+	},
+	{
+		"url_regex": "https%3A%2F%2Fwww.erome.com%2Fa%2F.*",
+		"video_xpath": "//video[@class='vjs-tech']"
+	},
+	{
+		"url_regex": "https%3A%2F%2Fhentaihaven.xxx%2Fwatch%2F.*",
+		"video_xpath": "//video[@class='jw-video']"
+	},
+	{
+		"url_regex": "https%3A%2F%2Fpornez.net%2Fvideo.*",
+		"video_xpath": "//video[@id='hls-video']"
+	},
+	{
+		"url_regex": "https%3A%2F%2Fpornwild.com%2Fru%2Fvideos%2F.*",
+		"video_xpath": "//video[@class='fp-engine']"
+	},
+		
+	{
+		"url_regex": "https%3A%2F%2Fwww.xvideos.com%2Fvideo.*",
+		"video_xpath": "//div[@id='hlsplayer']/div[@class='video-bg-pic']/video"
+	}
+]
