@@ -64,9 +64,9 @@
 		"url_regex": "https%3A%2F%2Fwww.xvideos.com%2Fvideo.*",
 		"video_xpath": "//div[@id='hlsplayer']/div[@class='video-bg-pic']/video"
 	},
-
+	
 	{
-		"url_regex": "https%3A%2F%2Fge.xhamster.com%2F.videos.*",
+		"url_regex": "https%3A%2F%2Fge.xhamster.desi%2Fvideos%2F.*",
 		"video_xpath": "//video[@id='player_html5_api']"
 	}
 ]
