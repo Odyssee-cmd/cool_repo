@@ -63,7 +63,7 @@
 	},
 	
 	{
-		"url_regex": "https%3A%2F%2xhamster.com%2Fvideos%2F.*",
+		"url_regex": "https%3A%2F%2xhamster.com%2Fvideos.*",
 		"video_xpath": "//*[@id='xplayer__video']"
 	}
 ]
